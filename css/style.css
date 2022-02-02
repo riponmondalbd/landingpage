@@ -1,0 +1,42 @@
+.logo img{
+    width: 300px;
+}
+body{
+    
+    font-weight: 400;
+}
+.menu ul li a{
+    font-weight: 700;
+}
+.backpack-moonithumb img{
+    width: 450px;
+}
+h1.backpack{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: #363958;
+}
+h1.moon{
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(118 194 126);
+    font-size: 80px;
+    margin-top: -30px;
+}
+.container p{
+    font-size: 16px;
+    color: #3E3E3E;
+}
+.buy-now{
+    background-color: #2A1E59;
+    padding: 15px 25px;
+}
+.left-img img{
+    width: 78px;
+}
+
+
+
+
+@media (max-width: 1000px) {
+    
+}
