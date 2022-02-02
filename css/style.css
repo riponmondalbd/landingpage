@@ -3,7 +3,10 @@
 }
 body{
     
-    font-weight: 400;
+    font-weight: 500;
+}
+section{
+    margin-bottom: 200px;
 }
 .menu ul li a{
     font-weight: 700;
@@ -31,9 +34,21 @@ h1.moon{
     padding: 15px 25px;
 }
 .left-img img{
-    width: 78px;
+    width: 70px;
 }
-
+.twis-thumb img{
+    width: 550px;
+}
+.content h5{
+    font-weight: bold;
+    font-size: 22px;
+    color: #363958;
+}
+.content p{
+    font-size: 16px;
+    color: #3E3E3E;
+    margin-right: 40px;
+}
 
 
 
